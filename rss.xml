@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Life Of A Farmer]]></title>
         <description><![CDATA[Life Of A Farmer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lifeofafarmer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 05:13:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 05:20:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lifeofafarmer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76e9df1b-9cb6-4ec7-b462-d3b392d8affc.jpg">]]></description>
+            <link>https://thegrid.ai/lifeofafarmer/over-christmas-and-new-years-i-had-the-opportunity-to-trave/index.html</link>
+            <guid isPermaLink="false">88ade722-a5f1-4b82-a1e5-451bba5e83b3</guid>
+            <pubDate>Mon, 14 Mar 2016 05:18:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b650f9fb-df8d-4b01-be1d-ce967d0a780c.jpg">]]></description>
-            <link>undefinedover-labor-day-we-got-to-hang-out-with-the-family-down-in-i/index.html</link>
+            <link>https://thegrid.ai/lifeofafarmer/over-labor-day-we-got-to-hang-out-with-the-family-down-in-i/index.html</link>
             <guid isPermaLink="false">d3e419c2-eed7-49ca-bad9-41489af57ca3</guid>
             <pubDate>Mon, 14 Mar 2016 05:11:28 GMT</pubDate>
         </item>
